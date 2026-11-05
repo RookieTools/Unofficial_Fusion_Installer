@@ -1,0 +1,1361 @@
+{
+  "version": 2,
+  "root": {
+    "ref": "1",
+    "type": "pallet#0"
+  },
+  "objects": {
+    "1": {
+      "barcode": "Lakatrazz.FusionContent",
+      "title": "Fusion Content",
+      "description": "Brings in all of the main Fusion official content!",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Lakatrazz",
+      "version": "1.3.0",
+      "sdkVersion": "1.2.0",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "2",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "3",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "4",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "5",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "6",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "7",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "8",
+          "type": "crate-level#0"
+        },
+        {
+          "ref": "9",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "10",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "11",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "12",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "13",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "14",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "15",
+          "type": "crate-level#0"
+        },
+        {
+          "ref": "16",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "17",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "18",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "19",
+          "type": "crate-spawnable#0"
+        },
+        {
+          "ref": "20",
+          "type": "crate-spawnable#0"
+        }
+      ],
+      "dataCards": [
+        {
+          "ref": "21",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "22",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "23",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "24",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "25",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "26",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "27",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "28",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "29",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "30",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "31",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "32",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "33",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "34",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "35",
+          "type": "datacard-bonetag#0"
+        },
+        {
+          "ref": "36",
+          "type": "datacard-bonetag#0"
+        },
+        {
+          "ref": "37",
+          "type": "datacard-bonetag#0"
+        },
+        {
+          "ref": "38",
+          "type": "datacard-bonetag#0"
+        },
+        {
+          "ref": "39",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "40",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "41",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "42",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "43",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "44",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "45",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "46",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "47",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "48",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "49",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "50",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "51",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "52",
+          "type": "datacard-monodisc#0"
+        },
+        {
+          "ref": "53",
+          "type": "datacard-monodisc#0"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "pallet#0"
+      }
+    },
+    "2": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.BitMart",
+      "title": "BitMart",
+      "description": "Void-powered shop connected directly to all of MythOS's clothing centers.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "9b1b9af6d6b583c4fa4b59903eefb7f4"
+        }
+      ],
+      "mainAsset": "6d0197f34937bb849b28d98d27baedd6",
+      "tags": [
+        "Fusion"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": -0.244899452,
+          "y": 1.740545,
+          "z": 0.0519462228
+        },
+        "extents": {
+          "x": 0.975254238,
+          "y": 1.75592446,
+          "z": 0.484842479
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "3": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.AchievementBoard",
+      "title": "Achievement Board",
+      "description": "Challenge board containing multiple objectives completable with pals in MythOS.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "0f8d05635cd6e674d9ddbec183dbac42"
+        }
+      ],
+      "mainAsset": "848410be2c3510e4c97a8cebcedb8865",
+      "tags": [
+        "Fusion"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.000779628754,
+          "y": 1.44927061,
+          "z": 5.364418E-07
+        },
+        "extents": {
+          "x": 1.27056074,
+          "y": 1.44939482,
+          "z": 0.3081976
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "4": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.InfoBoard",
+      "title": "Info Board",
+      "description": "News terminal that pipes the most recent Fusion news into your instance.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "6084f5de170558c48a17b564c5e48d43"
+        }
+      ],
+      "mainAsset": "d83d8915bf1f8e844a31f3db81a580ae",
+      "tags": [
+        "Fusion"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 1.14178717,
+          "z": -2.08616257E-07
+        },
+        "extents": {
+          "x": 0.5051991,
+          "y": 1.13394678,
+          "z": 0.267407
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "5": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.VictoryTrophy",
+      "title": "Victory Trophy",
+      "description": "YOU WON! YOU DID IT! YOU WON <b>THE GAME!</b>",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "7bd674172ba743b4097a713ad25bfa0f"
+        }
+      ],
+      "mainAsset": "143ed05e40cdce44493fe85c71c2d3f8",
+      "tags": [
+        "Fusion",
+        "Cosmetic",
+        "Hat",
+        "Completionist"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "6": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.AchievementPopup",
+      "title": "Achievement Popup",
+      "description": "The popup shown when completing an achievement.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "26f3b8ff298a03e4fbc70d187f9237c9"
+        }
+      ],
+      "mainAsset": "00ff56bb8e780f64b803ec6fc4e292aa",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "7": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.BitPopup",
+      "title": "Bit Popup",
+      "description": "The popup shown when spending or gaining bits.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "7a615d385fee2c849b61621a51ab9de7"
+        }
+      ],
+      "mainAsset": "e4eeecf5183eb5d4ea33ffa81cce262a",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "8": {
+      "barcode": "Lakatrazz.FusionContent.Level.LoadDownloading",
+      "title": "Load Downloading",
+      "description": "",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [],
+      "mainAsset": "466e42a64ccb19a44ae66d911bd7c3f3",
+      "tags": [],
+      "multiscene": false,
+      "isa": {
+        "type": "crate-level#0"
+      }
+    },
+    "9": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.ProgressBar",
+      "title": "Progress Bar",
+      "description": "The popup shown when a mod is being downloaded.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "742a939c0d821b9428e3ac3f1d9a8380"
+        }
+      ],
+      "mainAsset": "44443485590fad94dbe760a920fdcce6",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "10": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.NameTag",
+      "title": "NameTag",
+      "description": "The NameTag of a networked player.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "6b57811ce62c4f642b55960ab4538084"
+        }
+      ],
+      "mainAsset": "1fae934c147cdae40b4b5d9d7e370f6c",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "11": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.HeadLayout",
+      "title": "Head Layout",
+      "description": "The layout group that automatically sorts head UI on networked players.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "156687e813ebce14abcd3a9d7464a101"
+        }
+      ],
+      "mainAsset": "a540c8baf4f0c92419d786473cdd9270",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "12": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.MuteIndicator",
+      "title": "Mute Indicator",
+      "description": "The indicator on your screen shown when you are muted.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "e28251fd4a1f9d94f89abd52b342dbd8"
+        }
+      ],
+      "mainAsset": "54c60c3ba852f2f40a1b61a6a872df11",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "13": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.FusionMenu",
+      "title": "Fusion Menu",
+      "description": "The menu for interacting with Fusion on the go!",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "393f64c3f17861b40b4eeeff48b086f0"
+        }
+      ],
+      "mainAsset": "9797c7c48c0e4114086d24688ebb8f4f",
+      "tags": [
+        "Fusion",
+        "UI"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": -340.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 900.0,
+          "y": 55.0,
+          "z": 2.5
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "14": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.Icon",
+      "title": "Icon",
+      "description": "An icon to show above an entity.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "e527a9aa9066dc24982c4f566be03c79"
+        }
+      ],
+      "mainAsset": "1360143c1c47dce45a71f80a0417cc6b",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "15": {
+      "barcode": "Lakatrazz.FusionContent.Level.FusionTesting",
+      "title": "Fusion Testing",
+      "description": "Debug level for testing Fusion events.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [],
+      "mainAsset": "e7e2d37e0bb9f3c4ba5626e11909b0b6",
+      "tags": [],
+      "multiscene": false,
+      "isa": {
+        "type": "crate-level#0"
+      }
+    },
+    "16": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.HealthBar",
+      "title": "Health Bar",
+      "description": "An entity's health bar.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "6314f27e9c618f141a910f508dd7f9be"
+        }
+      ],
+      "mainAsset": "610bd0d8ad6b9e240b639492b5e7ddd2",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "17": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.LivesBar",
+      "title": "Lives Bar",
+      "description": "An entity's lives and damage bar.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "843a7182b85fb034c8a7d042d8146494"
+        }
+      ],
+      "mainAsset": "9d8e261bc20bd7b41aecc11281f2aaf5",
+      "tags": [
+        "Fusion",
+        "Popup"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "18": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.DeathExplosion",
+      "title": "Death Explosion",
+      "description": "An entity death explosion used in Gamemodes.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "c24bc7874c1998b46bf6305c9ee939b9"
+        }
+      ],
+      "mainAsset": "b0d279fa918e3d84394dd98245ee8db7",
+      "tags": [
+        "Fusion",
+        "VFX"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "19": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.LaserCursor",
+      "title": "Laser Cursor",
+      "description": "The laser cursor skeleton for UI.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "e9e94f11755024f42b95d4eca3986ebd"
+        }
+      ],
+      "mainAsset": "1e2f6c782aaf5df49990757561b471ab",
+      "tags": [
+        "Fusion",
+        "UI"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "20": {
+      "barcode": "Lakatrazz.FusionContent.Spawnable.EntangledLine",
+      "title": "Entangled Line",
+      "description": "Line connecting players in Entangled.",
+      "unlockable": false,
+      "redacted": true,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "9b9099c0af447274c8ada0e7b77a7e7f"
+        }
+      ],
+      "mainAsset": "f801e738d4cf5c64e94af9c31ee6ebe4",
+      "tags": [
+        "Fusion"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "21": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.PhantasmagoricalAppliances",
+      "title": "Phantasmagorical Appliances",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "739d59fd10b43b24dace7299385d6f7f"
+        }
+      ],
+      "dataCardAsset": "391bcea53f62c9d4983ac21ae088574b",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "22": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.AppenBeyuge",
+      "title": "Appen Beyuge",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "7269c1d995d35ae42bde376a0a1c6b02"
+        }
+      ],
+      "dataCardAsset": "a5491b0dbbcbdb0488e0d00b312c3874",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "23": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.BuggyPhysics",
+      "title": "Buggy Physics",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "f8094b0c042dd694b8ed5a7fce103018"
+        }
+      ],
+      "dataCardAsset": "5ff5c6950d9e40849b64e181e47bc842",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "24": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SicklyBugInitiative",
+      "title": "Sickly Bug Initiative",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "14b94b2344b0df9498de6b138bfafae0"
+        }
+      ],
+      "dataCardAsset": "6f17f498b8413b64b89046160377011d",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "25": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SmigglesInDespair",
+      "title": "Smiggles In Despair",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "8fc609b419d48834bb7e1c58cc005c20"
+        }
+      ],
+      "dataCardAsset": "06353090925024f48bb854e58ed12684",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "26": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SyntheticCaverns",
+      "title": "Synthetic Caverns",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "428f2aed77b6cc740ad3873548ccd2b4"
+        }
+      ],
+      "dataCardAsset": "9cc6b265cb9b1204ab65ccdd755d1307",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "27": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.WackyWillysWonderland",
+      "title": "Wacky Willy's Wonderland",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "84e001818c08ae840b815dfb6b302397"
+        }
+      ],
+      "dataCardAsset": "96d3be93ce6f0774aa84df3fdb0e8f67",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "28": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.FistfightFusion",
+      "title": "Fistfight Fusion",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "542f57511000087439ba725c022f4926"
+        }
+      ],
+      "dataCardAsset": "b8b1e8e2bb8d1bb4aa670bbc08a3f783",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "29": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.GeoGrpFellDownTheStairs",
+      "title": "GeoGrp Fell Down The Stairs",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "c47e9bc134e676a41a524a2b99ea3c02"
+        }
+      ],
+      "dataCardAsset": "317c0fc33c06ee74ab5e2eb557ae1442",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "30": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LavaGangFails",
+      "title": "Lava Gang Fails",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "00995302a401a114fb7d186b0a504b64"
+        }
+      ],
+      "dataCardAsset": "d32a5b33d675d8c449e061af2e6b9a0e",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "31": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LavaGangTriumphs",
+      "title": "Lava Gang Triumphs",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "4d83ed6ee27665641be857a623e6eac1"
+        }
+      ],
+      "dataCardAsset": "ee9f095dcbac400498592b3627b960f7",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "32": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SabrelakeFails",
+      "title": "Sabrelake Fails",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "5a6da1f98fc90b64c9bee7dbfc06f69b"
+        }
+      ],
+      "dataCardAsset": "3e660a20b56c0bd47a0f856fc039e366",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "33": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SabrelakeTriumphs",
+      "title": "Sabrelake Triumphs",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "86014f1fdf315474ca5cf3de3e56254e"
+        }
+      ],
+      "dataCardAsset": "e1c9657b3d244a148b5541b3deb1ca6b",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "34": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.Erm",
+      "title": "Erm...",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "10d560ac5564e72479069f1b825be7e8"
+        }
+      ],
+      "dataCardAsset": "778fde2ef685b2a4499998b042feac01",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "35": {
+      "barcode": "Lakatrazz.FusionContent.BoneTag.FusionPlayer",
+      "title": "Fusion Player",
+      "description": "Identifies a separate player in Fusion",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "isa": {
+        "type": "datacard-bonetag#0"
+      }
+    },
+    "36": {
+      "barcode": "Lakatrazz.FusionContent.BoneTag.TeamLavaGang",
+      "title": "Team LavaGang",
+      "description": "Identifies the LavaGang team in a team GameMode.",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "isa": {
+        "type": "datacard-bonetag#0"
+      }
+    },
+    "37": {
+      "barcode": "Lakatrazz.FusionContent.BoneTag.TeamSabrelake",
+      "title": "Team Sabrelake",
+      "description": "Identifies the Sabrelake team in a team GameMode.",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "isa": {
+        "type": "datacard-bonetag#0"
+      }
+    },
+    "38": {
+      "barcode": "Lakatrazz.FusionContent.BoneTag.Spectator",
+      "title": "Spectator",
+      "description": "Identifies a Spectator in a Gamemode.",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "isa": {
+        "type": "datacard-bonetag#0"
+      }
+    },
+    "39": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.DeathExplosion",
+      "title": "Death Explosion",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "65f1f56b95a3a7444af0d2075670ab8f"
+        }
+      ],
+      "dataCardAsset": "aa4b1facb5248fa45ab8b7ca364c2f2c",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "40": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.BitGet",
+      "title": "Bit Get",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "92c01589b49099d4f87900e762fd066a"
+        }
+      ],
+      "dataCardAsset": "5b4d5d5ad55795b46a1516a3d37bbeb4",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "41": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.FailedPurchase",
+      "title": "Failed Purchase",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "6d000464ba5c6f3469224a6094c749ab"
+        }
+      ],
+      "dataCardAsset": "cfd785cd3e59fa8478fbd26a19a1d974",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "42": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.SuccessfulPurchase",
+      "title": "Successful Purchase",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "007cded39dce062418d0e923507b00fb"
+        }
+      ],
+      "dataCardAsset": "2d1e4d9a8053b494180367fa68fac2e5",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "43": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.EquipItem",
+      "title": "Equip Item",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "eefee54933e42f44a8abc19bbc0044df"
+        }
+      ],
+      "dataCardAsset": "14658af2b01c02d4284411ff9697c04c",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "44": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UnequipItem",
+      "title": "Unequip Item",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "d90575b2503e2bc4dbb897bcb3299a77"
+        }
+      ],
+      "dataCardAsset": "b675f57ce6462254b8f744cdc21deb5c",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "45": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LaserPrismaticSFX",
+      "title": "Laser Prismatic SFX",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "f73b9031522460845a414eb9ae766acd"
+        }
+      ],
+      "dataCardAsset": "c803ca4fe475da04da9c4c0fae290b13",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "46": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LaserRaySpawn",
+      "title": "Laser Ray Spawn",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "9a74a4fcd1cfe684ca42843223b31280"
+        }
+      ],
+      "dataCardAsset": "85f4015acb65dbe40911d603671e490f",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "47": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LaserRayDespawn",
+      "title": "Laser Ray Despawn",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "3dcc2ad31b29a824ba0d8e2b85face8c"
+        }
+      ],
+      "dataCardAsset": "5d7d78526e710ea40b85cd1c6a03227e",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "48": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.LaserPulse",
+      "title": "Laser Pulse",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "62eba460d14ba904bb8e393a302e86a6"
+        }
+      ],
+      "dataCardAsset": "18a7a72a9ce584548a7c0d04674f9cca",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "49": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UIDeny",
+      "title": "UI Deny",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "ab1a437ffed3b8546b593d1f97c4edca"
+        }
+      ],
+      "dataCardAsset": "9cac38bab4dca494eba3e71aafdc2a9d",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "50": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UISelect",
+      "title": "UI Select",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "b2e0e41aba5901c4092b70cda13d2767"
+        }
+      ],
+      "dataCardAsset": "6603cab67cec4e9439202be9723aca0b",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "51": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UIConfirm",
+      "title": "UI Confirm",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "59e479a47c08de446a68e24bc0703310"
+        }
+      ],
+      "dataCardAsset": "2f61a33c1f41b214a9c7eeecd6070903",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "52": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UITurnOff",
+      "title": "UI Turn Off",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "1df26e504bf62cb4086989043721079c"
+        }
+      ],
+      "dataCardAsset": "24b0c7bf5ed46d64ba30d4c5c51b5fce",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    },
+    "53": {
+      "barcode": "Lakatrazz.FusionContent.MonoDisc.UITurnOn",
+      "title": "UI Turn On",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "AudioClip",
+          "guid": "b02b2369ff924e04f927ea36e40e32ce"
+        }
+      ],
+      "dataCardAsset": "ba7241481ff0f1446bc72cb0d6f22554",
+      "isa": {
+        "type": "datacard-monodisc#0"
+      }
+    }
+  }
+}
