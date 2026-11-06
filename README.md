@@ -37,8 +37,17 @@ issues.
 If you don't like the use of AI then just don't use this tool.
 
 
+**--Current Known Bugs--**
 
-## **Note: Make sure this is opened in idle Python first then**
+The only bugs I'm currently aware of is that it always sayss that the mods are found when they are not
+so just ignore that and when you select clean install it says it deleating the obb file **data file** and melonloader bonelab file,
+this is correct but the data folder isn't deleated neither is the obb file only the data and obb files for BoneLab.
+
+Appart from these everything works as intended.
+
+
+  **( IF NOT USING EXE )**
+## **Make sure this is opened in idle Python first then** 
 
 ## &#x09; **you run it using F5 otherwise it won't work**
 
