@@ -39,7 +39,7 @@ If you don't like the use of AI then just don't use this tool.
 
 **--Current Known Bugs--**
 
-The only bugs I'm currently aware of is that it always sayss that the mods are found when they are not
+The only bugs I'm currently aware of is that it always says that the mods are found when they are not
 so just ignore that and when you select clean install it says it deleating the obb file **data file** and melonloader bonelab file,
 this is correct but the data folder isn't deleated neither is the obb file only the data and obb files for BoneLab.
 
